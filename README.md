@@ -1,7 +1,7 @@
 # Minimal FreeRTOS simulator for POSIX
 
 ## Motivation
-I couldn't find a simplified boilerplate for FreeRTOS on POSIX systems, so I decided to make my own :)
+I couldn't find a simplified boilerplate for FreeRTOS on POSIX systems, so I decided to make my own :)  
 Hopefully, this repo will be of use to people who want to learn FreeRTOS, but don't have access to hardware!
 
 ## Note 
