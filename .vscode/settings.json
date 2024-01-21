@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "wait_for_event.h": "c",
+        "timers.h": "c",
+        "pthreadtypes.h": "c",
+        "sched.h": "c"
+    }
+}

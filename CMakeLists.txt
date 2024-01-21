@@ -1,0 +1,5 @@
+project(FreeRTOS_Posix_App)
+cmake_minimum_required(VERSION 3.15)
+add_compile_definitions(projCOVERAGE_TEST=1)
+include_directories(include)
+add_subdirectory(src)
