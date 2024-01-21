@@ -1,5 +1,8 @@
 # Minimal FreeRTOS simulator for POSIX
 
+## Motivation
+I couldn't find a simplified boilerplate for FreeRTOS on POSIX systems which, so I decided to make my own :)
+
 ## Note 
 - This simulator is intended to run on Posix systems (includes Ubuntu and other Linux distros)
 - Other platforms may not be supported
