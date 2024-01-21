@@ -1,5 +1,9 @@
 # Minimal FreeRTOS simulator for POSIX
 
+## Note 
+- This simulator is intended to run on Posix systems (includes Ubuntu and other Linux distros)
+- Other platforms may not be supported
+  
 ## Steps to run
 1. Add your additional header files to the `include` folder
 2. Add your additional source files to the `src/app` folder and edit the `CMakeLists.txt` to add the source files
