@@ -13,5 +13,4 @@
 6. `mkdir build`
 7. `cd build && cmake ..`
 8. `make`
-9. `cd build/src/app/`
-10. `./FreeRTOS_App`
+9.  To run the app, please use `./FreeRTOS_App`, within the `build` folder
